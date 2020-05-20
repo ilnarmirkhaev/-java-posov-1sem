@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 public class ArraysTasks {
-
+    // новый комментарий
     public static void main(String[] args) {
         int[] a = createEvenList(10);
         System.out.println("Массив a:\n" + Arrays.toString(a));
