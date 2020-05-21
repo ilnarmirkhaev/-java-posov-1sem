@@ -137,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590071866818</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Оно и в клоне поменялось...">
+      <created>1590071929582</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1590071929582</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,7 +193,8 @@
     <MESSAGE value="Изменили решение HelloWorld" />
     <MESSAGE value="Изменили решение LeapYear" />
     <MESSAGE value="Изменили решение PrimalityTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="Изменили решение PrimalityTest" />
+    <MESSAGE value="Оно и в клоне поменялось..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Оно и в клоне поменялось..." />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587048920880">
@@ -197,10 +205,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="715" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586733925898" />
-    <state x="264" y="86" width="1467" height="853" key="CommitChangelistDialog2" timestamp="1590066574371">
+    <state x="110" y="86" width="1467" height="853" key="CommitChangelistDialog2" timestamp="1590071929074">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="264" y="86" width="1467" height="853" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590066574371" />
+    <state x="110" y="86" width="1467" height="853" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590071929074" />
     <state x="1060" y="100" width="760" height="840" key="DiffContextDialog" timestamp="1590014204131">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -229,10 +237,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="687" y="153" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590013163640" />
-    <state x="1032" y="251" key="Vcs.Push.Dialog.v2" timestamp="1590066590184">
+    <state x="1032" y="251" key="Vcs.Push.Dialog.v2" timestamp="1590071933475">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590066590184" />
+    <state x="1032" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590071933475" />
     <state x="1060" y="100" width="760" height="840" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1590012135228">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

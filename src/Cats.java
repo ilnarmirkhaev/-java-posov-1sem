@@ -1,5 +1,5 @@
 public class Cats {
-	
+	// а здесь комментарий еще новее
 	public static void main(String[] args) {
 		int num = 2001;
 		System.out.println(catEnding(num));
