@@ -4,15 +4,19 @@ import java.util.Scanner;
 
 public class IOTasks {
     public static void main(String[] args) {
-        System.out.println(fileIntegersSum("../words_and_ints.txt"));
+        System.out.println(fileIntegersSum("..\\ints.txt"));
     }
 
-    private static int fileIntegersSum(File filename) {
+    private static int fileIntegersSum(String s) throws Exception {
         int answer = 0;
-        Scanner in = new Scanner(filename, "utf8");
-        if (in.hasNextInt())
-            answer += in.nextInt();
-        else in.next();
+        Path filepath = Paths.get(s);
+        try (Scanner in = new Scanner(filepath)) {
+            while (in.hasNext()) {
+                if (in.hasNextInt())
+                    answer += in.nextInt();
+                else in.next();
+            }
+        }
         return answer;
     }
 
