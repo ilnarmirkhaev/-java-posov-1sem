@@ -15,7 +15,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1018024c-80a2-477d-8ffe-edd8b86ed878" name="Default Changelist" comment="" />
+    <list default="true" id="1018024c-80a2-477d-8ffe-edd8b86ed878" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590065921728</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Изменили решение LeapYear">
+      <created>1590066574896</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590066574896</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,7 +177,8 @@
     <MESSAGE value="Изменили решение ArraysTasks" />
     <MESSAGE value="Добавили .gitignore" />
     <MESSAGE value="Изменили решение HelloWorld" />
-    <option name="LAST_COMMIT_MESSAGE" value="Изменили решение HelloWorld" />
+    <MESSAGE value="Изменили решение LeapYear" />
+    <option name="LAST_COMMIT_MESSAGE" value="Изменили решение LeapYear" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587048920880">
@@ -179,10 +189,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="715" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586733925898" />
-    <state x="1044" y="105" width="745" height="853" key="CommitChangelistDialog2" timestamp="1590065921158">
+    <state x="264" y="86" width="1467" height="853" key="CommitChangelistDialog2" timestamp="1590066574371">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1044" y="105" width="745" height="853" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590065921158" />
+    <state x="264" y="86" width="1467" height="853" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590066574371" />
     <state x="1060" y="100" width="760" height="840" key="DiffContextDialog" timestamp="1590014204131">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -211,10 +221,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="687" y="153" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590013163640" />
-    <state x="1032" y="251" key="Vcs.Push.Dialog.v2" timestamp="1590066418522">
+    <state x="1032" y="251" key="Vcs.Push.Dialog.v2" timestamp="1590066590184">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590066418522" />
+    <state x="1032" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590066590184" />
     <state x="1060" y="100" width="760" height="840" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1590012135228">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
