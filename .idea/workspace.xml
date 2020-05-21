@@ -15,7 +15,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1018024c-80a2-477d-8ffe-edd8b86ed878" name="Default Changelist" comment="" />
+    <list default="true" id="1018024c-80a2-477d-8ffe-edd8b86ed878" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/IOTasks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -202,14 +205,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="Оно и в клоне поменялось..." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587048920880">
+    <state x="414" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590075542462">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587048920880" />
+    <state x="414" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590075542462" />
     <state x="715" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586733925898">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="715" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586733925898" />
+    <state x="689" y="308" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1590075541693">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="308" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590075541693" />
     <state x="110" y="86" width="1467" height="853" key="CommitChangelistDialog2" timestamp="1590071929074">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -222,38 +229,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="259" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587048916270" />
-    <state width="900" height="258" key="GridCell.Tab.0.bottom" timestamp="1590013408884">
+    <state width="811" height="258" key="GridCell.Tab.0.bottom" timestamp="1590075490838">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="900" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590013408884" />
-    <state width="900" height="258" key="GridCell.Tab.0.center" timestamp="1590013408883">
+    <state width="811" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590075490838" />
+    <state width="811" height="258" key="GridCell.Tab.0.center" timestamp="1590075490838">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="900" height="258" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590013408883" />
-    <state width="900" height="258" key="GridCell.Tab.0.left" timestamp="1590013408883">
+    <state width="811" height="258" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590075490838" />
+    <state width="811" height="258" key="GridCell.Tab.0.left" timestamp="1590075490838">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="900" height="258" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590013408883" />
-    <state width="900" height="258" key="GridCell.Tab.0.right" timestamp="1590013408883">
+    <state width="811" height="258" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590075490838" />
+    <state width="811" height="258" key="GridCell.Tab.0.right" timestamp="1590075490838">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="900" height="258" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590013408883" />
+    <state width="811" height="258" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590075490838" />
     <state x="687" y="153" key="SettingsEditor" timestamp="1590013163640">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="687" y="153" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590013163640" />
-    <state x="1032" y="251" key="Vcs.Push.Dialog.v2" timestamp="1590071933475">
+    <state x="1032" y="251" key="Vcs.Push.Dialog.v2" timestamp="1590073128408">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590071933475" />
+    <state x="1032" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590073128408" />
     <state x="1060" y="100" width="760" height="840" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1590012135228">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1060" y="100" width="760" height="840" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590012135228" />
-    <state x="1249" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590072080233">
+    <state x="1249" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590073032084">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1249" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590072080233" />
+    <state x="1249" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590073032084" />
     <state x="1241" y="425" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1590066362325">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
