@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1018024c-80a2-477d-8ffe-edd8b86ed878" name="Default Changelist" comment="Изменили решение ArraysTasks">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Ilnar Mirkhaev" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aS8ajcWle2ar7TqPSEBfk0mPgV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Application.ArraysTasks">
+    <configuration name="ArraysTasks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysTasks" />
+      <module name="JavaProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="JavaProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeapYear" />
+      <module name="JavaProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArraysTasks" />
+        <item itemvalue="Application.LeapYear" />
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1018024c-80a2-477d-8ffe-edd8b86ed878" name="Default Changelist" comment="" />
+      <created>1586717700074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586717700074</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1590013006710</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590013006710</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Изменили решение ArraysTasks">
+      <created>1590014132333</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590014132333</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="First Commit" />
+    <MESSAGE value="Изменили решение ArraysTasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Изменили решение ArraysTasks" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587048920880">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587048920880" />
+    <state x="715" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586733925898">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586733925898" />
+    <state x="956" y="88" width="745" height="853" key="CommitChangelistDialog2" timestamp="1590014131812">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="956" y="88" width="745" height="853" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590014131812" />
+    <state x="1060" y="100" width="760" height="840" key="DiffContextDialog" timestamp="1590014204131">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1060" y="100" width="760" height="840" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590014204131" />
+    <state x="740" y="259" key="FileChooserDialogImpl" timestamp="1587048916270">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="259" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587048916270" />
+    <state width="900" height="258" key="GridCell.Tab.0.bottom" timestamp="1590013408884">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="900" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590013408884" />
+    <state width="900" height="258" key="GridCell.Tab.0.center" timestamp="1590013408883">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="900" height="258" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590013408883" />
+    <state width="900" height="258" key="GridCell.Tab.0.left" timestamp="1590013408883">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="900" height="258" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590013408883" />
+    <state width="900" height="258" key="GridCell.Tab.0.right" timestamp="1590013408883">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="900" height="258" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590013408883" />
+    <state x="687" y="153" key="SettingsEditor" timestamp="1590013163640">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="153" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590013163640" />
+    <state x="1060" y="100" width="760" height="840" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1590012135228">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1060" y="100" width="760" height="840" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590012135228" />
+    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1590013166298">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590013166298" />
+  </component>
+</project>
