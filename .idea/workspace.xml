@@ -15,8 +15,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1018024c-80a2-477d-8ffe-edd8b86ed878" name="Default Changelist" comment="Изменили решение ArraysTasks">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="1018024c-80a2-477d-8ffe-edd8b86ed878" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590014132333</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Добавили .gitignore">
+      <created>1590065820940</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590065820940</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,7 +161,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="First Commit" />
     <MESSAGE value="Изменили решение ArraysTasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Изменили решение ArraysTasks" />
+    <MESSAGE value="Добавили .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавили .gitignore" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587048920880">
@@ -165,10 +173,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="715" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586733925898" />
-    <state x="956" y="88" width="745" height="853" key="CommitChangelistDialog2" timestamp="1590014131812">
+    <state x="1044" y="105" width="745" height="853" key="CommitChangelistDialog2" timestamp="1590065820272">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="956" y="88" width="745" height="853" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590014131812" />
+    <state x="1044" y="105" width="745" height="853" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590065820272" />
     <state x="1060" y="100" width="760" height="840" key="DiffContextDialog" timestamp="1590014204131">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
