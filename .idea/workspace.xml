@@ -15,9 +15,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1018024c-80a2-477d-8ffe-edd8b86ed878" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1018024c-80a2-477d-8ffe-edd8b86ed878" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590066574896</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Изменили решение PrimalityTest">
+      <created>1590071866818</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590071866818</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,7 +183,8 @@
     <MESSAGE value="Добавили .gitignore" />
     <MESSAGE value="Изменили решение HelloWorld" />
     <MESSAGE value="Изменили решение LeapYear" />
-    <option name="LAST_COMMIT_MESSAGE" value="Изменили решение LeapYear" />
+    <MESSAGE value="Изменили решение PrimalityTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="Изменили решение PrimalityTest" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587048920880">
