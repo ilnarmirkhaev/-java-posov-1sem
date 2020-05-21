@@ -1,5 +1,5 @@
 import java.util.Arrays; 
-
+// изменение из дома
 public class SieveOfEratosthenes {
 	
 	public static void main(String[] args) {

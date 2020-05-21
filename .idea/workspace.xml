@@ -15,9 +15,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1018024c-80a2-477d-8ffe-edd8b86ed878" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/ArraysTasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraysTasks.java" afterDir="false" />
-    </list>
+    <list default="true" id="1018024c-80a2-477d-8ffe-edd8b86ed878" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +40,13 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/ilnarmirkhaev/java-posov-1sem.git" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1aS8ajcWle2ar7TqPSEBfk0mPgV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
