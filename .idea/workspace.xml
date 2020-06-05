@@ -16,10 +16,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1018024c-80a2-477d-8ffe-edd8b86ed878" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/JavaProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JavaProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoDimensionalArrayTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ints.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ints.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/IOTasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IOTasks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words_and_ints.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,9 +63,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.ArraysTasks">
+  <component name="RunManager" selected="Application.TwoDimensionalArrayTask">
     <configuration name="ArraysTasks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraysTasks" />
       <module name="JavaProjects" />
@@ -86,8 +90,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TwoDimensionalArrayTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoDimensionalArrayTask" />
+      <module name="JavaProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoDimensionalArrayTask" />
         <item itemvalue="Application.ArraysTasks" />
         <item itemvalue="Application.LeapYear" />
         <item itemvalue="Application.HelloWorld" />
@@ -161,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590075669226</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Не понимаю в чем проблема с IOTasks">
+      <created>1590080943587</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1590080943587</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,9 +231,14 @@
     <MESSAGE value="Изменили решение PrimalityTest" />
     <MESSAGE value="Оно и в клоне поменялось..." />
     <MESSAGE value="Начал решать IOTasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Начал решать IOTasks" />
+    <MESSAGE value="Не понимаю в чем проблема с IOTasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Не понимаю в чем проблема с IOTasks" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="440" y="93" key="#Project_Structure" timestamp="1591373314384">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="93" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1591373314384" />
     <state x="379" y="228" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590075802702">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -227,42 +251,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="689" y="308" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590075541693" />
-    <state x="110" y="86" width="1467" height="853" key="CommitChangelistDialog2" timestamp="1590075668521">
+    <state x="640" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1591373695686">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="110" y="86" width="1467" height="853" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590075668521" />
+    <state x="640" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591373695686" />
+    <state x="110" y="86" width="1467" height="853" key="CommitChangelistDialog2" timestamp="1590080942816">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="110" y="86" width="1467" height="853" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590080942816" />
     <state x="1060" y="100" width="760" height="840" key="DiffContextDialog" timestamp="1590014204131">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1060" y="100" width="760" height="840" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590014204131" />
-    <state x="740" y="259" key="FileChooserDialogImpl" timestamp="1590075777651">
+    <state x="740" y="259" key="FileChooserDialogImpl" timestamp="1591373311588">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="259" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590075777651" />
-    <state width="811" height="258" key="GridCell.Tab.0.bottom" timestamp="1590078214436">
+    <state x="740" y="259" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591373311588" />
+    <state width="1876" height="449" key="GridCell.Tab.0.bottom" timestamp="1591375155821">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="811" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590078214436" />
-    <state width="811" height="258" key="GridCell.Tab.0.center" timestamp="1590078214436">
+    <state width="1876" height="449" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591375155821" />
+    <state width="1876" height="449" key="GridCell.Tab.0.center" timestamp="1591375155820">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="811" height="258" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590078214436" />
-    <state width="811" height="258" key="GridCell.Tab.0.left" timestamp="1590078214436">
+    <state width="1876" height="449" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591375155820" />
+    <state width="1876" height="449" key="GridCell.Tab.0.left" timestamp="1591375155820">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="811" height="258" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590078214436" />
-    <state width="811" height="258" key="GridCell.Tab.0.right" timestamp="1590078214436">
+    <state width="1876" height="449" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591375155820" />
+    <state width="1876" height="449" key="GridCell.Tab.0.right" timestamp="1591375155821">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="811" height="258" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590078214436" />
+    <state width="1876" height="449" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591375155821" />
     <state x="687" y="153" key="SettingsEditor" timestamp="1590013163640">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="687" y="153" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590013163640" />
-    <state x="1032" y="251" key="Vcs.Push.Dialog.v2" timestamp="1590075703265">
+    <state x="1032" y="251" key="Vcs.Push.Dialog.v2" timestamp="1590080948801">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590075703265" />
+    <state x="1032" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590080948801" />
     <state x="1060" y="100" width="760" height="840" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1590012135228">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
