@@ -59,6 +59,17 @@ public class Rational {
     }
 
     // public methods
+    public void setN(int n) {
+        this.n = n;
+    }
+
+    public void setD(int d) {
+        if (d > 0)
+            this.d = d;
+        else
+            System.out.println("Изменения не применены. Введите положительный знаменатель.");
+    }
+
     public String toString() {
         if (n == 0)
             return "0";

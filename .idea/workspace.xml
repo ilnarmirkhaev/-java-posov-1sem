@@ -17,7 +17,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1018024c-80a2-477d-8ffe-edd8b86ed878" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExperimentsWithRational.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentsWithRational.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Rational.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rational.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -214,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591790148423</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Разобрался с арифметическими действиями над дробями. Добавил метод private void simplify для упрощения дробей.">
+      <created>1591804861895</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1591804861895</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -270,7 +276,8 @@
     <MESSAGE value="Частично решил RegularExpressions" />
     <MESSAGE value="Решил ExperimentsWithTime (класс Time включен в коммит)" />
     <MESSAGE value="Начал решать Rational" />
-    <option name="LAST_COMMIT_MESSAGE" value="Начал решать Rational" />
+    <MESSAGE value="Разобрался с арифметическими действиями над дробями. Добавил метод private void simplify для упрощения дробей." />
+    <option name="LAST_COMMIT_MESSAGE" value="Разобрался с арифметическими действиями над дробями. Добавил метод private void simplify для упрощения дробей." />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="93" key="#Project_Structure" timestamp="1591373314384">
@@ -293,10 +300,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591373695686" />
-    <state x="110" y="86" width="1467" height="853" key="CommitChangelistDialog2" timestamp="1591790147435">
+    <state x="41" y="128" width="1467" height="853" key="CommitChangelistDialog2" timestamp="1591804861363">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="110" y="86" width="1467" height="853" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591790147435" />
+    <state x="41" y="128" width="1467" height="853" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591804861363" />
     <state x="1060" y="100" width="760" height="840" key="DiffContextDialog" timestamp="1590014204131">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -325,10 +332,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="687" y="153" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590013163640" />
-    <state x="1032" y="251" key="Vcs.Push.Dialog.v2" timestamp="1591790152559">
+    <state x="1032" y="251" key="Vcs.Push.Dialog.v2" timestamp="1591804928914">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591790152559" />
+    <state x="1032" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591804928914" />
     <state x="1060" y="100" width="760" height="840" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1590012135228">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
