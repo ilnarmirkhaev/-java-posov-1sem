@@ -17,8 +17,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1018024c-80a2-477d-8ffe-edd8b86ed878" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Drawing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Drawing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ExperimentsWithDrawing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentsWithDrawing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExperimentsWithRational.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentsWithRational.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +66,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.ExperimentsWithDrawing">
+  <component name="RunManager" selected="Application.ExperimentsWithRational">
     <configuration name="ExperimentsWithDrawing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExperimentsWithDrawing" />
       <module name="JavaProjects" />
@@ -104,8 +104,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExperimentsWithDrawing" />
         <item itemvalue="Application.ExperimentsWithRational" />
+        <item itemvalue="Application.ExperimentsWithDrawing" />
         <item itemvalue="Application.ExperimentsWithTime" />
         <item itemvalue="Application.RegularExpressions" />
         <item itemvalue="Application.TwoDimensionalArrayTask" />
@@ -249,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591820185057</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Добавил в Drawing методы drawCircle и draw. И порисовал немного">
+      <created>1591826650425</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1591826650425</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -310,7 +317,8 @@
     <MESSAGE value="Сделал более адекватные тесты для всех арифметических функций" />
     <MESSAGE value="Добавил методы get для Rational. Написал функцию, считающую сумму дробей от 1 до n." />
     <MESSAGE value="Начал решать Drawing (включительно до drawRectangle)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Начал решать Drawing (включительно до drawRectangle)" />
+    <MESSAGE value="Добавил в Drawing методы drawCircle и draw. И порисовал немного" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил в Drawing методы drawCircle и draw. И порисовал немного" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="93" key="#Project_Structure" timestamp="1591373314384">
@@ -337,10 +345,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1170" y="265" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591814787087" />
-    <state x="124" y="42" width="1467" height="853" key="CommitChangelistDialog2" timestamp="1591820184545">
+    <state x="739" y="54" width="1121" height="853" key="CommitChangelistDialog2" timestamp="1591826649895">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="124" y="42" width="1467" height="853" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591820184545" />
+    <state x="739" y="54" width="1121" height="853" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591826649895" />
     <state x="1060" y="100" width="760" height="840" key="DiffContextDialog" timestamp="1590014204131">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -349,22 +357,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="259" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591373311588" />
-    <state width="582" height="973" key="GridCell.Tab.0.bottom" timestamp="1591826219184">
+    <state width="900" height="323" key="GridCell.Tab.0.bottom" timestamp="1591827499115">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="582" height="973" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591826219184" />
-    <state width="582" height="973" key="GridCell.Tab.0.center" timestamp="1591826219184">
+    <state width="900" height="323" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591827499115" />
+    <state width="900" height="323" key="GridCell.Tab.0.center" timestamp="1591827499115">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="582" height="973" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591826219184" />
-    <state width="582" height="973" key="GridCell.Tab.0.left" timestamp="1591826219184">
+    <state width="900" height="323" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591827499115" />
+    <state width="900" height="323" key="GridCell.Tab.0.left" timestamp="1591827499115">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="582" height="973" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591826219184" />
-    <state width="582" height="973" key="GridCell.Tab.0.right" timestamp="1591826219184">
+    <state width="900" height="323" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591827499115" />
+    <state width="900" height="323" key="GridCell.Tab.0.right" timestamp="1591827499115">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="582" height="973" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591826219184" />
+    <state width="900" height="323" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591827499115" />
     <state x="687" y="153" key="SettingsEditor" timestamp="1590013163640">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

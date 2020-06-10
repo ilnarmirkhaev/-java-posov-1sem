@@ -61,12 +61,13 @@ public class ExperimentsWithRational {
         if (n < 1)
             return 0;
         else {
-            Rational sum = new Rational(0);
+            double sum = 0;
             for (int i = 1; i <= n; i++) {
-                sum.addInPlace(new Rational(1, i));
+                sum += new Rational(1, i).toDouble();
             }
-            return sum.toDouble();
+            return sum;
         }
+        // хранение суммы в переменной типа double, а не в Rational решает проблему
+        // подозреваю, что изменение int на long в классе Rational тоже, но пробовать не хочется
     }
-
 }

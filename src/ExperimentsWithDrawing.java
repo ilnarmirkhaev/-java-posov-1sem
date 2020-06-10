@@ -35,8 +35,8 @@ public class ExperimentsWithDrawing {
         d2.draw(15, 15, d1);
         d2.print();
 
-//        System.out.println("---------------");
-//        Drawing gioconda = new Drawing(40, 40, '.');
-//        gioconda.print();
+        System.out.println("---------------");
+        Drawing house = new Drawing(40, 40, '.');
+        house.print();
     }
 }
