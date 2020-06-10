@@ -59,6 +59,14 @@ public class Rational {
     }
 
     // public methods
+    public int getN() {
+        return n;
+    }
+
+    public int getD() {
+        return d;
+    }
+
     public void setN(int n) {
         this.n = n;
     }

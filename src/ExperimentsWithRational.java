@@ -50,8 +50,23 @@ public class ExperimentsWithRational {
         Rational r8 = r7.sub(r1);
         System.out.println(r8.toString());
 
+        System.out.println("----------------");
 
+        for(int i = 0; i <= 21; i++)
+            System.out.printf("%d - %f\n", i, sumOfRationals(i));
 
+    }
+
+    public static double sumOfRationals(int n) {
+        if (n < 1)
+            return 0;
+        else {
+            Rational sum = new Rational(0);
+            for (int i = 1; i <= n; i++) {
+                sum.addInPlace(new Rational(1, i));
+            }
+            return sum.toDouble();
+        }
     }
 
 }
