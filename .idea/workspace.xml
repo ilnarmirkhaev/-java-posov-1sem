@@ -16,9 +16,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1018024c-80a2-477d-8ffe-edd8b86ed878" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ExperimentsWithRational.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rational.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExperimentsWithRational.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentsWithRational.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rational.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rational.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591737609577</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Начал решать Rational">
+      <created>1591790148423</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1591790148423</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -262,7 +269,8 @@
     <MESSAGE value="Решил многомерные массивы&#10;Начал решать рег. выражения" />
     <MESSAGE value="Частично решил RegularExpressions" />
     <MESSAGE value="Решил ExperimentsWithTime (класс Time включен в коммит)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решил ExperimentsWithTime (класс Time включен в коммит)" />
+    <MESSAGE value="Начал решать Rational" />
+    <option name="LAST_COMMIT_MESSAGE" value="Начал решать Rational" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="93" key="#Project_Structure" timestamp="1591373314384">
@@ -285,10 +293,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591373695686" />
-    <state x="110" y="86" width="1467" height="853" key="CommitChangelistDialog2" timestamp="1591737609070">
+    <state x="110" y="86" width="1467" height="853" key="CommitChangelistDialog2" timestamp="1591790147435">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="110" y="86" width="1467" height="853" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591737609070" />
+    <state x="110" y="86" width="1467" height="853" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591790147435" />
     <state x="1060" y="100" width="760" height="840" key="DiffContextDialog" timestamp="1590014204131">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -297,30 +305,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="259" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591373311588" />
-    <state width="900" height="350" key="GridCell.Tab.0.bottom" timestamp="1591750715489">
+    <state width="900" height="274" key="GridCell.Tab.0.bottom" timestamp="1591803892640">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="900" height="350" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591750715489" />
-    <state width="900" height="350" key="GridCell.Tab.0.center" timestamp="1591750715489">
+    <state width="900" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591803892640" />
+    <state width="900" height="274" key="GridCell.Tab.0.center" timestamp="1591803892639">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="900" height="350" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591750715489" />
-    <state width="900" height="350" key="GridCell.Tab.0.left" timestamp="1591750715489">
+    <state width="900" height="274" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591803892639" />
+    <state width="900" height="274" key="GridCell.Tab.0.left" timestamp="1591803892639">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="900" height="350" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591750715489" />
-    <state width="900" height="350" key="GridCell.Tab.0.right" timestamp="1591750715489">
+    <state width="900" height="274" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591803892639" />
+    <state width="900" height="274" key="GridCell.Tab.0.right" timestamp="1591803892640">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="900" height="350" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591750715489" />
+    <state width="900" height="274" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591803892640" />
     <state x="687" y="153" key="SettingsEditor" timestamp="1590013163640">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="687" y="153" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590013163640" />
-    <state x="1032" y="251" key="Vcs.Push.Dialog.v2" timestamp="1591743659894">
+    <state x="1032" y="251" key="Vcs.Push.Dialog.v2" timestamp="1591790152559">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591743659894" />
+    <state x="1032" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591790152559" />
     <state x="1060" y="100" width="760" height="840" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1590012135228">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -337,9 +345,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="235" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591727605040" />
-    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1591734032497">
+    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1591801142150">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591734032497" />
+    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591801142150" />
   </component>
 </project>
