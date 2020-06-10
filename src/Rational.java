@@ -1,4 +1,15 @@
 public class Rational {
+    // STATIC
+    //private fields
+    private static final int ZERO = 0;
+    private static final int ONE = 1;
+
+    //private methods
+    private static int gcd(int a, int b) {
+        if (b == 0)
+            return Math.abs(a);
+        return gcd(b, a % b);
+    }
 
     // NON-STATIC
     // private fields
@@ -119,12 +130,12 @@ public class Rational {
     }
 
     // private methods
-    private int gcd(int a, int b) {
-        if (b == 0)
-            return Math.abs(a);
-        return gcd(b, a % b);
-    }
-
+//    private int gcd(int a, int b) {
+//        if (b == 0)
+//            return Math.abs(a);
+//        return gcd(b, a % b);
+//    }
+//
     private void simplify() {
         int c = gcd(this.n, this.d);
         this.n /= c;
