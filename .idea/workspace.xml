@@ -18,7 +18,6 @@
     <list default="true" id="1018024c-80a2-477d-8ffe-edd8b86ed878" name="Default Changelist" comment="Добавил в Rational константы, сделал НОД статичным">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ints.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IOTasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IOTasks.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,21 +60,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.IOTasks">
+  <component name="RunManager" selected="Application.TestingBeforeExam">
     <configuration name="ExperimentsWithDrawing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExperimentsWithDrawing" />
-      <module name="JavaProjects" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExperimentsWithRational" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExperimentsWithRational" />
       <module name="JavaProjects" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,13 +95,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestingBeforeExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestingBeforeExam" />
+      <module name="JavaProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IOTasks" />
-        <item itemvalue="Application.ExperimentsWithRational" />
+        <item itemvalue="Application.TestingBeforeExam" />
         <item itemvalue="Application.ExperimentsWithDrawing" />
-        <item itemvalue="Application.ExperimentsWithTime" />
-        <item itemvalue="Application.RegularExpressions" />
       </list>
     </recent_temporary>
   </component>
@@ -277,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591872035874</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Сделал запись строк в файл.">
+      <created>1591872885622</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1591872885622</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -318,7 +322,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="First Commit" />
     <MESSAGE value="Изменили решение ArraysTasks" />
@@ -342,7 +345,8 @@
     <MESSAGE value="Починил в ExperimentsWithRational функцию суммы дробей." />
     <MESSAGE value="Добавил в Rational константы, сделал НОД статичным" />
     <MESSAGE value="Файлы в java это тяжело..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Файлы в java это тяжело..." />
+    <MESSAGE value="Сделал запись строк в файл." />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделал запись строк в файл." />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="93" key="#Project_Structure" timestamp="1591373314384">
@@ -369,42 +373,42 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1170" y="265" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591814787087" />
-    <state x="595" y="52" width="1121" height="853" key="CommitChangelistDialog2" timestamp="1591872035092">
+    <state x="595" y="52" width="1121" height="853" key="CommitChangelistDialog2" timestamp="1591872885232">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="595" y="52" width="1121" height="853" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591872035092" />
+    <state x="595" y="52" width="1121" height="853" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591872885232" />
     <state x="1060" y="100" width="760" height="840" key="DiffContextDialog" timestamp="1590014204131">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1060" y="100" width="760" height="840" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590014204131" />
-    <state x="740" y="259" key="FileChooserDialogImpl" timestamp="1591373311588">
+    <state x="740" y="259" key="FileChooserDialogImpl" timestamp="1592155457360">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="259" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591373311588" />
-    <state width="900" height="323" key="GridCell.Tab.0.bottom" timestamp="1591871943607">
+    <state x="740" y="259" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592155457360" />
+    <state width="900" height="323" key="GridCell.Tab.0.bottom" timestamp="1591892239475">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="900" height="323" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591871943607" />
-    <state width="900" height="323" key="GridCell.Tab.0.center" timestamp="1591871943607">
+    <state width="900" height="323" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591892239475" />
+    <state width="900" height="323" key="GridCell.Tab.0.center" timestamp="1591892239475">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="900" height="323" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591871943607" />
-    <state width="900" height="323" key="GridCell.Tab.0.left" timestamp="1591871943607">
+    <state width="900" height="323" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591892239475" />
+    <state width="900" height="323" key="GridCell.Tab.0.left" timestamp="1591892239475">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="900" height="323" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591871943607" />
-    <state width="900" height="323" key="GridCell.Tab.0.right" timestamp="1591871943607">
+    <state width="900" height="323" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591892239475" />
+    <state width="900" height="323" key="GridCell.Tab.0.right" timestamp="1591892239475">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="900" height="323" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591871943607" />
-    <state x="687" y="153" key="SettingsEditor" timestamp="1590013163640">
+    <state width="900" height="323" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591892239475" />
+    <state x="687" y="153" key="SettingsEditor" timestamp="1592155413723">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="687" y="153" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590013163640" />
-    <state x="1032" y="251" key="Vcs.Push.Dialog.v2" timestamp="1591872048139">
+    <state x="687" y="153" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592155413723" />
+    <state x="1032" y="251" key="Vcs.Push.Dialog.v2" timestamp="1591892271935">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591872048139" />
+    <state x="1032" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591892271935" />
     <state x="1060" y="100" width="760" height="840" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1590012135228">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
