@@ -1,3 +1,7 @@
+import java.io.PrintStream;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.*;
+
 public class Transliterator {
     // STATIC
     // public
@@ -39,6 +43,14 @@ public class Transliterator {
         return result.toString();
     }
 
+    public void translateFile(String fin, String fout) throws Exception{
+        String s = Files.readString(Paths.get(fin), StandardCharsets.UTF_8);
+        PrintStream ps = new PrintStream(fout, StandardCharsets.UTF_8);
+        ps.print(translate(s));
+        System.out.println("Transliteration from file " + fin + " into file " + fout + " is done!");
+    }
+
+    // private methods
     private String capitalize(String s) {
         if (s == null || s.isEmpty())
             return s;
