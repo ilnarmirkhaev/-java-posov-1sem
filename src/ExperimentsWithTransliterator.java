@@ -32,5 +32,8 @@ public class ExperimentsWithTransliterator {
         System.out.println(t.translate("Моё имя")); // Ilia
         System.out.println(t.translate("Яблоко")); // Iabloko
         System.out.println(t.translate("ПАРАШЮТ")); // PARAShIuT
+
+        Transliterator t2 = Transliterator.createICAO_DOC_9303();
+        System.out.println(t2.translate("Юлия Щеглова"));
     }
 }
