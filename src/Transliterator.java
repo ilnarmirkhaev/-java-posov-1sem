@@ -6,7 +6,7 @@ public class Transliterator {
     // STATIC
     // public
     public static Transliterator createICAO_DOC_9303() {
-        char[] rus =  new char[]{'а', 'б', 'в', 'г', 'д', 'е', 'ё', 'ж', 'з', 'и', 'й', 'к', 'л', 'м', 'н', 'о', 'п', 'р', 'с', 'т', 'у', 'ф', 'х', 'ц', 'ч', 'ш', 'щ', 'ъ', 'ы', 'ь', 'э', 'ю', 'я'};
+        char[] rus = new char[]{'а', 'б', 'в', 'г', 'д', 'е', 'ё', 'ж', 'з', 'и', 'й', 'к', 'л', 'м', 'н', 'о', 'п', 'р', 'с', 'т', 'у', 'ф', 'х', 'ц', 'ч', 'ш', 'щ', 'ъ', 'ы', 'ь', 'э', 'ю', 'я'};
         String[] eng = new String[]{"a", "b", "v", "g", "d", "e", "e", "zh", "z", "i", "i", "k", "l", "m", "n", "o", "p", "r", "s", "t", "u", "f", "kh", "ts", "ch", "sh", "shch", "ie", "y", "", "e", "iu", "ia"};
         return new Transliterator(rus, eng);
     }
@@ -43,10 +43,11 @@ public class Transliterator {
         return result.toString();
     }
 
-    public void translateFile(String fin, String fout) throws Exception{
+    public void translateFile(String fin, String fout) throws Exception {
         String s = Files.readString(Paths.get(fin), StandardCharsets.UTF_8);
-        PrintStream ps = new PrintStream(fout, StandardCharsets.UTF_8);
-        ps.print(translate(s));
+        try (PrintStream ps = new PrintStream(fout, StandardCharsets.UTF_8)) {
+            ps.print(translate(s));
+        }
         System.out.println("Transliteration from file " + fin + " into file " + fout + " is done!");
     }
 
