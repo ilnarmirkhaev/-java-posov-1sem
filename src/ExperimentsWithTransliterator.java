@@ -25,5 +25,12 @@ public class ExperimentsWithTransliterator {
         System.out.println(t1.translate("0123456789"));
         System.out.println(t1.translate("а1б2в3"));
         System.out.println(t1.translate("мама"));
+
+        System.out.println(t.translateOneSymbol('Р')); // R
+        System.out.println(t.translateOneSymbol('Я')); // Ia
+        System.out.println(t.translateOneSymbol('Ь')); //
+        System.out.println(t.translate("Моё имя")); // Ilia
+        System.out.println(t.translate("Яблоко")); // Iabloko
+        System.out.println(t.translate("ПАРАШЮТ")); // PARAShIuT
     }
 }

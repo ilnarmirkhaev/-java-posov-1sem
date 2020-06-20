@@ -17,8 +17,11 @@ public class Transliterator {
     // public methods
     public String translateOneSymbol(char c) {
         for (int i = 0; i < chars.length; i++)
-            if (c == chars[i])
+            if (Character.toLowerCase(c) == chars[i]) {
+                if (Character.isUpperCase(c))
+                    return capitalize(strings[i]);
                 return strings[i];
+            }
         return Character.toString(c);
     }
 
@@ -31,4 +34,9 @@ public class Transliterator {
         return result.toString();
     }
 
+    private String capitalize(String s) {
+        if (s == null || s.isEmpty())
+            return s;
+        return s.substring(0, 1).toUpperCase() + s.substring(1);
+    }
 }
